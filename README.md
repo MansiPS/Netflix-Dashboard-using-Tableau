@@ -2,14 +2,16 @@
 
 ![Designer](https://github.com/user-attachments/assets/ac52f818-0740-467d-8fe2-36fabee7143f)
 
-# Project Title - Road Accident Analysis
+# Project Title - Netflix Data Analysis
 
-- This Repository offers a Comprehensive Analysis of Road Accident Data. 
-- By Leveraging this Project, we can unveil Valuable Insights and make Informed Decisions.
+- This Repository offers an Intricate and Comprehensive Analysis of Netflix Data.
+- By Harnessing this Project, we can reveal Profound Insights and make Discerning Decisions.
 
 # 📃Description
 
-Road Accidents ranks among the Foremost Global Causes of Injuries and Fatalities, presenting a critical area of Research dedicated to Traffic Accident Analysis and Predictive Techniques. By Scrutinizing the myriad factors that lead to these Tragic events, we aim to uncover the most Pivotal Contributors to Road Traffic Accidents.
+Netflix, a leading global Streaming Service, revolutionized the way we consume Entertainment by offering a vast library of Movies, TV shows, and Original content. With over 200 Million Subscribers Worldwide, Netflix continuously adapts to viewer preferences through data-driven strategies. Its success is a testament to the power of leveraging data for Customer Satisfaction and Content Curation.
+
+The Netflix Data Analysis Dashboard delivers a Comprehensive Overview of User viewing habits and Content Performance. It highlights the Top 10 Genres, Total Releases by Year and Country, and the Distribution of Content on Netflix. Detailed Insights include Descriptions, Genres, Release years, Dates added, Durations and Ratings of selected Movies or TV shows. This Sophisticated tool empowers users to make discerning decisions with Insightful Data-Driven Analysis.
 
 # Table of Content
 
@@ -30,65 +32,54 @@ Road Accidents ranks among the Foremost Global Causes of Injuries and Fatalities
 
 # 🚀 Project Goal
 
-To Develop an Intricate Road Accident Dashboard for the years 2021 and 2022, encapsulating Critical Insights and Data to Illuminate the key factors influencing Road Traffic Accidents.
+The Goal of this Netflix Data Analysis Dashboard is to deliver an Extensive view of Content Distribution and Viewer Engagement on the platform. By Analyzing Trends and Patterns, the Dashboard aims to facilitate Informed Decision-making and Strategic Content Planning.
 
 # Project Motivation
 
-The Motivation driving this project is to Utilize Advanced Data Analysis and Predictive Techniques to significantly improve Road Safety and reduce the Incidence of Traffic Accidents Worldwide.
+As a Netflix Enthusiast, the Motivation behind this Project is to gain deeper Insights into the Diverse Content Offerings and Viewing Trends to Enhance the Overall Streaming Experience.
 
 # ⏳ Dataset
 
-The Road Accident Dataset is an Excel File, featuring one Comprehensive and Meticulously Detailed Sheet.
+The NETFLIX Dataset is an Excel File, featuring one Comprehensive and Meticulously Detailed Sheet.
 - Kindly Access and Download the Dataset via the Link provided below
-- Link :- [Raw Data.xlsx](https://github.com/user-attachments/files/16469050/Raw.Data.xlsx)
+- Link :-
 
 ## 📑 Dataset Description
 
 When we examine the Data, we observe a number of Different Columns.
 
-- Accident Index : An Unique Identifier for each Reported Accident.🚨
-- Accident Date : The Date in which the Accident occurred.
-- Day of Week : The Day in which the Accident occurred.
-- Junction Details : Specifics about the Junction Location.⚠️
-- Accident Severity : Degree of Impact or Harm caused by the Accident.🤕
-- Latitude : Geographic Latitude of the Accident Location.
-- Light Conditions : Lighting Status at the Time of the Accident.💥
-- Local Authority (District) : Administrative District where the Accident Occurred.
-- Carriageway Hazards : Obstacles or Dangers on the Road.
-- Longitude : Geographic Longitude of the Accident Location.
-- Number of Casualties : Total Number of Injured Individuals.🤕🤦‍♂️
-- Number of Vehicles : Count of Vehicles Involved in the Accident.🚘
-- Police Force : The Police Department responding to the Incident.🚓👮
-- Road Surface Conditions : Quality and State of the Road Surface.
-- Road Type : Classification of the Road.
-- Speed Limit : Maximum allowable Speed at the Accident Location.⚠️☠️🚨
-- Time : Exact Time when the Accident Occurred.
-- Urban or Rural Area : Classification of the Area where the Accident Happened.
-- Weather Conditions : Weather Conditions at the Time of the Accident.
-- Vehicle Type : Classification of the Vehicles Involved.
+- Show Id : A Unique Identifier for each Netflix Show or Movie. 🎬
+- Type : The Classification of the Content, such as Movie or TV Show. 📺🎥
+- Title : The Name of the Show or Movie. 🎥📜
+- Director : The Individual who Directed the Show or Movie. 🎬👨‍🎨
+- Cast : The Actors and Actresses featured in the Show or Movie. 🎭👫
+- Country : The Country where the Show or Movie was Released. 🌍
+- Date Added : The Date when the Show or Movie was Added to Netflix. 📅✨
+- Release Year : The Year the Show or Movie was Originally Released. 📆🎉
+- Ratings : The Rating or Score given to the Show or Movie. ⭐📊
+- Duration : The Length of the Show or Movie, typically in Minutes. ⏱️🎬
+- Genre : The Category of the Show or Movie, such as Comedy, Drama, thriller, etc. 🎭🎬
+- Description : A Brief Summary or Overview of the Show or Movie. 📖✨
 
 # Requirement
 
-- ✅ The Tttal Casualties taken place after the Accident.
-- ✅ Types of Casualites and its Percentage Distribution 
-- ✅ The total Casualties with respect to the Vehicle type.
-- ✅ The Monthly trend showing Comparisons of Casualties for the Current Year and the Previous Year.
-- ✅ Toal Casualties by the Road Type.
-- ✅ Distribution of total Casualties by the Road Surface.
-- ✅ Total Casualties by Area and by Light Conditions.
-
+- ✅ Total Releases by Country.
+- ✅ Top 10 Genres.
+- ✅ Total Releases by Year.
+- ✅ Distribution of Ratings.
+- ✅ Distribution of Movies and TV Shows.
+- ✅ Detailed Insights of the Selected Movies or TV Shows.
 
 # 🧹 Data Cleaning ✨
 
-- Made Two new Columns 'Month' and 'Year' from 'Accident Date' column.
 - Changed the Data Types wherever required.📅
 - Removed Duplicates.
 - Replaced data with meaningful data etc.📝
 
 # ✅ Installation : ETL Tools ✅
 
-Using the Raw Data, I crafted an Insightful and Visually Compelling Dashboard in Excel.
-- MS Excel Installation Link :- https://www.microsoft.com/en-in/microsoft-365/excel
+Using the Raw Data, I crafted an Insightful and Visually Compelling Dashboard in Tableau Public.
+- Tableau Public Installation Link :- [https://public.tableau.com](https://www.tableau.com/products/public)
 
 # 🚀 My Project
 
