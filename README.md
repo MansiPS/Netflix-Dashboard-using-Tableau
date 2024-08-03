@@ -1,6 +1,6 @@
 # Netflix Dashboard using Tableau
 
-![StockCake-Urban Accident Scene_1722578240](https://github.com/user-attachments/assets/042f54d7-7600-4c26-85a6-313c13bfbb73)
+![Designer](https://github.com/user-attachments/assets/ac52f818-0740-467d-8fe2-36fabee7143f)
 
 # Project Title - Road Accident Analysis
 
