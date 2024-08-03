@@ -89,25 +89,35 @@ Comprehensive Analysis has been conducted on the Dataset, illustrated through a 
 Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Different Movies🎭🎥 and TV Shows📺🎬.
 
 This Illustrates the Details about the Movie "2 States". 
-![Analysis 1](https://github.com/user-attachments/assets/0c896d27-a5a6-43a5-bc06-0f2599686144)
+![Analysis 1](https://github.com/user-attachments/assets/e540a65a-923f-4c0e-8d2b-c089cbb1db0f)
 
 This Illustrates the Details about the Movie "3 Idiots".
-https://github.com/MansiPS/Netflix-Dashboard-using-Tableau/blob/594fce57b727c76ee17642bda0e6816ffc5fc0a8/Analysis%202.png
+![Analysis 2](https://github.com/user-attachments/assets/79c701b7-dc27-4e23-804e-fddb06872428)
 
 This Illustrates the Details about the TV Show "Godzilla".
-https://github.com/MansiPS/Netflix-Dashboard-using-Tableau/blob/594fce57b727c76ee17642bda0e6816ffc5fc0a8/Analysis%203.png
+![Analysis 3](https://github.com/user-attachments/assets/abc387d4-87cc-48e7-9e69-cc7e4b18be9d)
 
 This Illustrates the Details about the TV Show "The Conjuring".
-https://github.com/MansiPS/Netflix-Dashboard-using-Tableau/blob/594fce57b727c76ee17642bda0e6816ffc5fc0a8/Analysis%204.png
+![Analysis 4](https://github.com/user-attachments/assets/db7cee8e-888e-4245-9a82-9938dd011232)
 
 This Illustrates the Total Releases in "India".
-https://github.com/MansiPS/Netflix-Dashboard-using-Tableau/blob/594fce57b727c76ee17642bda0e6816ffc5fc0a8/Analysis%205.png
+![Analysis 5](https://github.com/user-attachments/assets/945d8fdb-37b3-4124-b584-982d927c2732)
 
 This Illustrates the Total Releases in "United States".
-https://github.com/MansiPS/Netflix-Dashboard-using-Tableau/blob/594fce57b727c76ee17642bda0e6816ffc5fc0a8/Analysis%206.png
+![Analysis 6](https://github.com/user-attachments/assets/df614bd1-00d4-4ca2-ba07-4c357c6e2cc7)
 
+This Illustrates the Total Releases with "TV-MA Ratings".
+![Analysis 7](https://github.com/user-attachments/assets/452360b6-fbef-4e97-88ce-cdf35cec1eb3)
 
-https://github.com/MansiPS/Netflix-Dashboard-using-Tableau/blob/594fce57b727c76ee17642bda0e6816ffc5fc0a8/Analysis%207.png
+This Illustrates the  Distribution of Total Releases in the "Movie" Type.
+![Analysis 8](https://github.com/user-attachments/assets/ba655077-69c8-491c-a497-a9c84c529b81)
+
+This Illustrates the Total Releases by Year in "TV Shows" Type.
+![Analysis 9](https://github.com/user-attachments/assets/02b11ca2-e198-42d2-b6e1-d5f16a388682)
+
+This Illustrates the Total Releases by Genre "Children & Family Movies, Comedies".
+![Analysis 10](https://github.com/user-attachments/assets/5b21cdfa-e859-4717-b952-4a4179d90c42)
+
 # Author 🙎‍♀️  
 
 ![157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7](https://github.com/user-attachments/assets/918f0183-1331-43d1-8de5-f074326c2cfb)
