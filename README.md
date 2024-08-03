@@ -108,7 +108,7 @@ This Illustrates the Total Releases in "United States".
 https://github.com/MansiPS/Netflix-Dashboard-using-Tableau/blob/594fce57b727c76ee17642bda0e6816ffc5fc0a8/Analysis%206.png
 
 
-
+https://github.com/MansiPS/Netflix-Dashboard-using-Tableau/blob/594fce57b727c76ee17642bda0e6816ffc5fc0a8/Analysis%207.png
 # Author 🙎‍♀️  
 
 ![157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7](https://github.com/user-attachments/assets/918f0183-1331-43d1-8de5-f074326c2cfb)
