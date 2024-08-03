@@ -20,8 +20,8 @@ The Netflix Data Analysis Dashboard delivers a Comprehensive Overview of User vi
 - [Dataset](#Dataset)
 - [Dataset Description](#Dataset-Description)
 - [Requirement](#Requirement)
-- [Data Cleaning](#Data-Cleaning)
 - [Installation : ETL Tools](#Installation)
+- [Data Cleaning](#Data-Cleaning)
 - [My Project](#My-Project)
 - [Author](#Author)
 - [Lessons Learnt](#Lessons-Learnt)
@@ -42,7 +42,7 @@ As a Netflix Enthusiast, the Motivation behind this Project is to gain deeper In
 
 The NETFLIX Dataset is an Excel File, featuring one Comprehensive and Meticulously Detailed Sheet.
 - Kindly Access and Download the Dataset via the Link provided below
-- Link :-
+- Link :- https://github.com/MansiPS/Netflix-Dashboard-using-Tableau/blob/970f60a1d8a0ad07aeab0c9b0b70b776b225877f/Raw%20Data.csv
 
 ## 📑 Dataset Description
 
@@ -70,45 +70,43 @@ When we examine the Data, we observe a number of Different Columns.
 - ✅ Distribution of Movies and TV Shows.
 - ✅ Detailed Insights of the Selected Movies or TV Shows.
 
-# 🧹 Data Cleaning ✨
-
-- Changed the Data Types wherever required.📅
-- Removed Duplicates.
-- Replaced data with meaningful data etc.📝
-
 # ✅ Installation : ETL Tools ✅
 
 Using the Raw Data, I crafted an Insightful and Visually Compelling Dashboard in Tableau Public.
 - Tableau Public Installation Link :- [https://public.tableau.com](https://www.tableau.com/products/public)
 
+# 🧹 Data Cleaning ✨
+
+- Changed the Data Types wherever required.📅
+- Removed Duplicates.
+- Replaced data with meaningful data etc.📝
+- Applied Sorting and Filters📶
+
 # 🚀 My Project
 
 Comprehensive Analysis has been conducted on the Dataset, illustrated through a Variety of Engaging Plots📊📈.
 
-![Screenshot (90)](https://github.com/user-attachments/assets/27905920-bab3-4f5b-a2fb-c3d911216aeb)
+Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Different Movies🎭🎥 and TV Shows📺🎬.
 
-Using Custom functions in PIVOT TABLE, I have manipulated data and created this Amazing Interactive Dashboard.
+This Illustrates the Details about the Movie "2 States". 
+https://github.com/MansiPS/Netflix-Dashboard-using-Tableau/blob/594fce57b727c76ee17642bda0e6816ffc5fc0a8/Analysis%201.png
 
-The Operations performed are:
-- Applied Sorting and Filters📶
-- Applied necessary Functions📊
 
-Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Different Area 📍 and Accident Dates 📅🚑🚨.
+This Illustrates the Details about the Movie "3 Idiots".
+https://github.com/MansiPS/Netflix-Dashboard-using-Tableau/blob/594fce57b727c76ee17642bda0e6816ffc5fc0a8/Analysis%202.png
 
-This Illustrates the Analysis within Rural Areas 📍.
-[![Screenshot (91)](https://github.com/user-attachments/assets/1e3f8386-904e-4723-bd59-d94bf8cf30d1)](https://github.com/MansiPS/Road-Accident-Dashboard-using-Excel/blob/8fabba5e25e32a19f5cbb69f3e31e69f7f53ab51/Analysis%201.png)
+This Illustrates the Details about the TV Show "Godzilla".
+https://github.com/MansiPS/Netflix-Dashboard-using-Tableau/blob/594fce57b727c76ee17642bda0e6816ffc5fc0a8/Analysis%203.png
 
-This Illustrates the Analysis within Urban Areas 📍.
-[![Screenshot (92)](https://github.com/user-attachments/assets/9e43979b-26bc-430e-926a-493b14181ade)](https://github.com/MansiPS/Road-Accident-Dashboard-using-Excel/blob/25e6cc624ba1e04cf1e007bdc45b43225c329d65/Analysis%202.png)
+This Illustrates the Details about the TV Show "The Conjuring".
+https://github.com/MansiPS/Netflix-Dashboard-using-Tableau/blob/594fce57b727c76ee17642bda0e6816ffc5fc0a8/Analysis%204.png
 
-This Illustrates the Analysis for the Accidents Date within 2021 Quarter1 📅.
-[![Screenshot (93)](https://github.com/user-attachments/assets/bc2f13dc-8cbe-409c-ab11-4791a5469eda)](https://github.com/MansiPS/Road-Accident-Dashboard-using-Excel/blob/249ce263ee00b63b1361e366b31593c33e023518/Analysis%203.png)
+This Illustrates the Total Releases in "India".
+https://github.com/MansiPS/Netflix-Dashboard-using-Tableau/blob/594fce57b727c76ee17642bda0e6816ffc5fc0a8/Analysis%205.png
 
-This Illustrates the Analysis for the Accidents Date within 2022 Quarter3 📅.
-[![Screenshot (94)](https://github.com/user-attachments/assets/7957550d-c142-4c6f-89c6-fff7ca476d7a)](https://github.com/MansiPS/Road-Accident-Dashboard-using-Excel/blob/249ce263ee00b63b1361e366b31593c33e023518/Analysis%204.png)
+This Illustrates the Total Releases in "United States".
+https://github.com/MansiPS/Netflix-Dashboard-using-Tableau/blob/594fce57b727c76ee17642bda0e6816ffc5fc0a8/Analysis%206.png
 
-This Illustrates the Analysis for the Accidents Date within 2022 Quarter4 📅.
-[![Screenshot (95)](https://github.com/user-attachments/assets/33c6dfe8-b31b-4a50-8482-3ff80f13786e)](https://github.com/MansiPS/Road-Accident-Dashboard-using-Excel/blob/249ce263ee00b63b1361e366b31593c33e023518/Analysis%205.png)
 
 
 # Author 🙎‍♀️  
