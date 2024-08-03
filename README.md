@@ -89,7 +89,7 @@ Comprehensive Analysis has been conducted on the Dataset, illustrated through a 
 Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Different Movies🎭🎥 and TV Shows📺🎬.
 
 This Illustrates the Details about the Movie "2 States". 
-https://github.com/MansiPS/Netflix-Dashboard-using-Tableau/blob/594fce57b727c76ee17642bda0e6816ffc5fc0a8/Analysis%201.png
+[https://github.com/MansiPS/Netflix-Dashboard-using-Tableau/blob/594fce57b727c76ee17642bda0e6816ffc5fc0a8/Analysis%201.png](https://github.com/MansiPS/Netflix-Dashboard-using-Tableau/blob/7d2b0b9caa192b1b0f60acd536c528535a34233b/Analysis%201.png)
 
 
 This Illustrates the Details about the Movie "3 Idiots".
