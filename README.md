@@ -84,9 +84,7 @@ Using the Raw Data, I crafted an Insightful and Visually Compelling Dashboard in
 
 # 🚀 My Project
 
-Comprehensive Analysis has been conducted on the Dataset, illustrated through a Variety of Engaging Plots📊📈.
-
-Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Different Movies🎭🎥 and TV Shows📺🎬.
+Comprehensive Analysis has been conducted on the Dataset, illustrated through a Variety of Engaging Plots📊📈. Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Different Movies🎭🎥 and TV Shows📺🎬.
 
 This Illustrates the Details about the Movie "2 States". 
 ![Analysis 1](https://github.com/user-attachments/assets/e540a65a-923f-4c0e-8d2b-c089cbb1db0f)
@@ -126,11 +124,13 @@ This Illustrates the Total Releases by Genre "Children & Family Movies, Comedies
 # 📝 Lessons Learnt 
 
 - ⭐Data Quality is Crucial
-- ⭐Simplicity Enhances Usability
-- ⭐Effective Use of Visuals
-- ⭐Interactive Elements Add Value
-- ⭐Consistent Formatting is Key
-- ⭐Performance Optimization Matters
+- ⭐Effective Data Visualization
+- ⭐User Friendly Design
+- ⭐Filtering and Interactivity
+- ⭐Performance Optimization
+- ⭐Consistent Data Formatting
+- ⭐Scalability Considerations
+- ⭐Feedback Integration
 
 # ✍ Acknowledgement
 
