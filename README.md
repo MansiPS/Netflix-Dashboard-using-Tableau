@@ -92,11 +92,11 @@ This Illustrates the Details about the Movie "2 States".
 This Illustrates the Details about the Movie "3 Idiots".
 ![Analysis 2](https://github.com/user-attachments/assets/79c701b7-dc27-4e23-804e-fddb06872428)
 
+This Illustrates the Details about the Movie "The Conjuring".
+![Analysis 4](https://github.com/user-attachments/assets/db7cee8e-888e-4245-9a82-9938dd011232)
+
 This Illustrates the Details about the TV Show "Godzilla".
 ![Analysis 3](https://github.com/user-attachments/assets/abc387d4-87cc-48e7-9e69-cc7e4b18be9d)
-
-This Illustrates the Details about the TV Show "The Conjuring".
-![Analysis 4](https://github.com/user-attachments/assets/db7cee8e-888e-4245-9a82-9938dd011232)
 
 This Illustrates the Total Releases in "India".
 ![Analysis 5](https://github.com/user-attachments/assets/945d8fdb-37b3-4124-b584-982d927c2732)
